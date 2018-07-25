@@ -21,6 +21,11 @@
             android:text="Liste de Course"
             android:textSize="35dp"
             android:textColor="#0000FF" />
+        <Button
+            android:id="@+id/btm"
+            android:layout_width="97dp"
+            android:layout_height="fill_parent"
+            android:text="Exit" />
 
     </LinearLayout>
 
