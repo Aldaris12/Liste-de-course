@@ -19,8 +19,9 @@
             android:layout_height="wrap_content"
             android:gravity="center"
             android:text="Liste de Course"
+            android:textSize="35dp"
             android:textColor="#0000FF" />
-        
+
     </LinearLayout>
 
 
